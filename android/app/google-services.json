@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602740208959",
+    "firebase_url": "https://flutter-sandbox-bee03.firebaseio.com",
+    "project_id": "flutter-sandbox-bee03",
+    "storage_bucket": "flutter-sandbox-bee03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602740208959:android:b58b76935978cce2",
+        "android_client_info": {
+          "package_name": "com.example.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602740208959-8ne1tfn43q6h9nofneujmnn43hipksh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5OLiZI9xcHSBGx-S4Y2ds9UA267jT-rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602740208959-8ne1tfn43q6h9nofneujmnn43hipksh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
